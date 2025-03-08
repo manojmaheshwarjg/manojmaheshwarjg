@@ -2,10 +2,10 @@
 
 <div align="center">
   
-  ![Product Manager Badge](https://img.shields.io/badge/-Product%20Manager-FF4C60?style=for-the-badge)
-  ![AI Solutions](https://img.shields.io/badge/-AI%20Solutions-6C5CE7?style=for-the-badge)
-  ![MVP Maestro](https://img.shields.io/badge/-MVP%20Maestro-00B8D9?style=for-the-badge)
-  ![Git Commit Issues](https://img.shields.io/badge/-Git%20Commit%20Issues-FFA500?style=for-the-badge)
+  ![Product Manager Badge](https://img.shields.io/badge/-Product%20Manager-D3D3D3?style=for-the-badge)
+  ![AI Solutions](https://img.shields.io/badge/-AI%20Solutions-D3D3D3?style=for-the-badge)
+  ![MVP Maestro](https://img.shields.io/badge/-MVP%20Maestro-D3D3D3?style=for-the-badge)
+  ![Git Commit Issues](https://img.shields.io/badge/-Git%20Commit%20Issues-D3D3D3?style=for-the-badge)
   
 </div>
 
