@@ -104,7 +104,7 @@ const future = {
 ---
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/hrSFdM4rg8VFpXErlz/giphy.gif]" width="200">
+  <img src="https://media.giphy.com/media/hrSFdM4rg8VFpXErlz/giphy.gif" width="200">
   <p><i>"If debugging is the process of removing bugs, then programming must be the process of putting them in." - This explains my code perfectly.</i></p>
 </div>
 
