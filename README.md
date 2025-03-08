@@ -2,15 +2,15 @@
 
 <div align="center">
   
-  ![Product Manager Badge](https://img.shields.io/badge/-Product%20Manager-000000?style=for-the-badge&logoColor=white)
-  ![AI Solutions](https://img.shields.io/badge/-AI%20Solutions-000000?style=for-the-badge&logoColor=white)
-  ![MVP Maestro](https://img.shields.io/badge/-MVP%20Maestro-000000?style=for-the-badge&logoColor=white)
-  ![Git Commit Issues](https://img.shields.io/badge/-Git%20Commit%20Issues-000000?style=for-the-badge&logoColor=white)
+  ![Product Manager Badge](https://img.shields.io/badge/-Product%20Manager-150458?style=for-the-badge&logoColor=white)
+  ![AI Solutions](https://img.shields.io/badge/-AI%20Solutions-150458?style=for-the-badge&logoColor=white)
+  ![MVP Maestro](https://img.shields.io/badge/-MVP%20Maestro-150458?style=for-the-badge&logoColor=white)
+  ![Git Commit Issues](https://img.shields.io/badge/-Git%20Commit%20Issues-150458?style=for-the-badge&logoColor=white)
   
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=500&color=228B22&center=true&vCenter=true&width=500&lines=Product+Manager+by+day;Confused+Coder+by+night;While+friends+get+married%2C+I+debug+errors;27+years+old%2C+still+doing+homework;git+status%3A+permanently+confused" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=500&color=D2042D&center=true&vCenter=true&width=500&lines=Product+Manager+by+day;Confused+Coder+by+night;While+friends+get+married%2C+I+debug+errors;27+years+old%2C+still+doing+homework;git+status%3A+permanently+confused" alt="Typing SVG" />
 </div>
 
 ## 🤖 From PRDs to Pull Requests: A Tragedy in Multiple Acts
