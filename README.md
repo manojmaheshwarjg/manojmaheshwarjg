@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=inter+Code&pause=500&color=228B22&center=true&vCenter=true&width=500&lines=Product+Manager+by+day;Confused+Coder+by+night;While+friends+get+married%2C+I+debug+errors;27+years+old%2C+still+doing+homework;git+status%3A+permanently+confused" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&pause=500&color=228B22&center=true&vCenter=true&width=500&lines=Product+Manager+by+day;Confused+Coder+by+night;While+friends+get+married%2C+I+debug+errors;27+years+old%2C+still+doing+homework;git+status%3A+permanently+confused" alt="Typing SVG" />
 </div>
 
 ## 🤖 From PRDs to Pull Requests: A Tragedy in Multiple Acts
