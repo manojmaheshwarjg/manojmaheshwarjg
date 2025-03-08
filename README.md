@@ -5,99 +5,119 @@
   ![Product Manager Badge](https://img.shields.io/badge/-Product%20Manager-FF4C60?style=for-the-badge)
   ![AI Solutions](https://img.shields.io/badge/-AI%20Solutions-6C5CE7?style=for-the-badge)
   ![MVP Maestro](https://img.shields.io/badge/-MVP%20Maestro-00B8D9?style=for-the-badge)
-  ![Agile Aficionado](https://img.shields.io/badge/-Agile%20Aficionado-0ACF83?style=for-the-badge)
-
+  ![Git Commit Issues](https://img.shields.io/badge/-Git%20Commit%20Issues-FFA500?style=for-the-badge)
+  
 </div>
 
-## 🤖 The AI-Powered Product Guy Who Ships Fast
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B8D9&center=true&vCenter=true&width=500&lines=Product+Manager+by+day;Confused+Coder+by+night;While+friends+get+married%2C+I+debug+errors;27+years+old%2C+still+doing+homework;git+status%3A+permanently+confused" alt="Typing SVG" />
+</div>
 
-I transform caffeine into MVPs faster than you can say "sprint planning." With 4+ years of experience building AI solutions and digital products, I'm the person you call when you need to get from concept to launch in 90 days or less.
+## 🤖 From PRDs to Pull Requests: A Tragedy in Multiple Acts
+
+I'm a Product Manager desperately trying to `git checkout` of management and `git commit` to becoming a tech bro at 27. While my friends are saying "I do," I'm in a committed relationship with compiler errors saying "No you don't."
 
 ```python
 def manoj():
-    skills = ["Product Management", "AI Solutions", "Agile Methodologies", "MVP Development"]
-    caffeine_level = "critically high"
-    current_status = "Building cool stuff while pursuing MS in AI at UB"
-    return {"mission": "Creating products people actually want to use"}
+    age = 27
+    status = "In a toxic relationship with Python syntax errors"
+    daily_activity = ["Writing PRDs", "Pretending to understand ML algorithms", 
+                      "Questioning life choices at 2 AM", "Submitting homework late"]
+    friends_status = "Getting married and having kids"
+    my_status = "Trying to remember what 'endemic' means in AI class"
+    return {"reality": "This wasn't in the PRD I wrote for my life"}
 ```
 
-## 🚀 My Superpower Stats
+## 🚀 My Superpower Stats (and Tragic Flaws)
 
-| Skill | Level | Description |
+| Skill | Level | Truth Behind the Scenes |
 |-------|-------|-------------|
-| MVP Development | ⭐⭐⭐⭐⭐ | Shipped 5 MVPs in less than 90 days each |
-| PRD Writing | ⭐⭐⭐⭐⭐ | 28+ PRDs with 60+ features defined |
-| Team Leadership | ⭐⭐⭐⭐ | Led cross-functional teams of up to 7 people |
-| Budget Optimization | ⭐⭐⭐⭐⭐ | Reduced development costs by 33% |
-| Bug Detection | ⭐⭐⭐⭐ | Identified 200+ bugs during UAT |
-| Webflow Wizardry | ⭐⭐⭐⭐⭐ | Completed 6+ professional Webflow projects |
+| MVP Development | ⭐⭐⭐⭐⭐ | Can launch any product in 90 days but can't fix my own sleep schedule |
+| PRD Writing | ⭐⭐⭐⭐⭐ | Written 28+ PRDs but can't write working code without 57 Stack Overflow tabs |
+| Technical Understanding | ⭐⭐ | "Yes, I totally understand what that algorithm does" *Googles frantically* |
+| Debugging | ⭐ | "Have you tried turning it off and on again?" |
+| Dating Life | 404 | Error: Not Found (too busy debugging) |
 
-## 🛠️ Tech Toolbox
+## 💻 The "git blame" List of Tools I Pretend to Understand
 
 <div align="center">
   
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-  ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-  ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-  ![Webflow](https://img.shields.io/badge/-Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
-  ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python(Still%20in%20the%20tutorial%20phase)-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/-NumPy(Num%20What%20Now%3F)-013243?style=flat-square&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/-Pandas(Not%20the%20animal)-150458?style=flat-square&logo=pandas&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn(Sci%20kidding%20me%3F)-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  ![Tableau](https://img.shields.io/badge/-Tableau(The%20only%20tool%20I%20actually%20get)-E97627?style=flat-square&logo=tableau&logoColor=white)
+  ![Figma](https://img.shields.io/badge/-Figma(Where%20I%20pretend%20to%20be%20useful)-F24E1E?style=flat-square&logo=figma&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git(Mostly%20git%20help)-F05032?style=flat-square&logo=git&logoColor=white)
   
 </div>
 
-## 🚢 Projects That Actually Shipped
+## 🎓 MS AI: Mistakes & Suffering in Artificial Intelligence
 
-### 🧠 Jerrydata - The BI Tool For Busy Executives Who Hate BI Tools
-- Simplified Business Intelligence for executives who just want answers
-- Built MVP in 90 days with less than $1,000
-- Current status: Growing user base
+Currently at University at Buffalo pursuing my MS in AI, or as I like to call it: "Mostly Suffering in Algorithmic Incomprehension." While my classmates are building neural networks, I'm still trying to understand why my "Hello World" program crashed.
 
-### ✨ Spellmint - AI-powered Planning for Agile Teams
-- 500 organic users within month one
-- Built in under 60 days with less than $500
-- Reached #21 on ProductHunt with 70+ upvotes
-- Listed in 50+ AI directories
+> "Education is important, but submitting assignments at 11:58 PM for a midnight deadline is importanter." - Me, probably
+
+## 🚢 Projects I Built vs. What I Actually Contributed
+
+### 🧠 Jerrydata - The BI Tool For Executives
+* What I tell people: "Developed an AI-driven Business Intelligence platform"
+* Reality: Mostly just changed the colors on the dashboard until people stopped complaining
+
+### ✨ Spellmint - AI-powered Planning
+* What I tell people: "Built in under 60 days with less than $500"
+* Reality: Spent 59 days procrastinating, then panic-coded for 24 hours straight
 
 ### 🏢 Hurrae Ventures - Team as a Service
-- Generated $15K in revenue serving US startups
-- Completed 6+ Webflow projects and 4+ product design projects
-- Services: Branding, Design, Development
+* What I tell people: "Generated $15K in revenue serving US startups"
+* Reality: Still haven't figured out how to generate $15 from my GitHub projects
 
-### 🚀 Zedtribe - No-Code Agency
-- Ranked #1 on Google for "no-code agency in India"
-- Recognized by Indian Government (DPIIT)
-- Completed 30+ projects across Webflow, Digital Marketing, and Design
+## 📊 My GitHub Activity (Mostly Starring Repos I'll Never Use)
 
-## 👨‍🎓 Education & Brain Upgrades
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-- **MS in Engineering Science (AI Focus)** - University at Buffalo, SUNY (2024-2026)
-- **BE in Electronics & Communication** - Velammal Engineering College (2015-2019)
-- **MasterCamp in Product Management** - Master's Union (2022-2023)
-  - Won 1st prize in UX teardown challenge (with 75% scholarship!)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</div>
 
-## 💬 The Quirky Section You Actually Wanted to Read
+## 💬 Why I'm Like This
 
-- I can launch an MVP faster than most people decide what to order for lunch
-- My superpower is turning complex ideas into products that people understand
-- I've been known to solve product problems in my sleep (literally wake up with solutions)
-- I believe good UX should be like oxygen - only noticeable when it's missing
-- My brain operates on a mix of coffee, curiosity, and "what if we tried this?"
+* At 27, I spend Friday nights debugging while my Instagram feed is flooded with wedding photos and baby announcements
+* My idea of a good time is finally getting my code to compile without errors (it's happened twice)
+* I've set a new record for most times saying "I have no idea what I'm doing" in a single day (42)
+* My browser history is 90% "how to exit vim" and "is it too late to learn coding at 27"
+* I write better commit messages than text messages to potential dates
 
-## 📫 Let's Connect!
+## 🔮 Future Plans
+
+```javascript
+const future = {
+  career: "Something involving AI that doesn't involve me actually coding it",
+  relationship: await fetch('https://willihaveagirlfriend.com'), // Promise pending for 27 years
+  skills: ["Eventually understanding Git beyond push and pull", "Learning to code without crying"],
+  realistic_goals: ["Submit assignments more than 2 minutes before deadline", 
+                   "Stop pretending I understand when professors talk about neural networks"]
+};
+```
+
+## 📫 Let's Connect! (While I Procrastinate on Assignments)
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojmaheshwarjg@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manojmaheshwarjg/)
+  [![Email](https://img.shields.io/badge/-Email(I'll%20respond%20in%202%20weeks)-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojmaheshwarjg@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn(Where%20I%20pretend%20to%20be%20professional)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manojmaheshwarjg/)
   
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jONZXgd4f6nQHjgHbW/giphy.gif" width="200">
-  <p><i>When I'm not shipping products, I'm probably thinking about shipping products.</i></p>
+  <img src="https://media.giphy.com/media/hrSFdM4rg8VFpXErlz/giphy.gif" width="200">
+  <p><i>"If debugging is the process of removing bugs, then programming must be the process of putting them in." - This explains my code perfectly.</i></p>
 </div>
+
+<!-- Fun fact: I spent more time making this README than actually writing code this month -->
+<!-- TODO: Learn what TODO actually means -->
+<!-- git commit -m "I have no idea what I'm committing to" -->
