@@ -72,16 +72,6 @@ Currently at University at Buffalo pursuing my MS in AI, or as I like to call it
 * What I tell people: "Generated $15K in revenue serving US startups"
 * Reality: Still haven't figured out how to generate $15 from my GitHub projects
 
-## 📊 My GitHub Activity (Mostly Starring Repos I'll Never Use)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojmaheshwarjg&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojmaheshwarjg&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 💬 Why I'm Like This
 
 * At 27, I spend Friday nights debugging while my Instagram feed is flooded with wedding photos and baby announcements
@@ -114,7 +104,7 @@ const future = {
 ---
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/hrSFdM4rg8VFpXErlz/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRzYmM1NjJnYmt3cnVqNmpjdDF0aWxhZmd6bDh4YWNtNTJ6a2Q0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hp3SBMRKqVDbqqf82K/giphy.gif)" width="200">
+  <img src="[https://media.giphy.com/media/hrSFdM4rg8VFpXErlz/giphy.gif]" width="200">
   <p><i>"If debugging is the process of removing bugs, then programming must be the process of putting them in." - This explains my code perfectly.</i></p>
 </div>
 
