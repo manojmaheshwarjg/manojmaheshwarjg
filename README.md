@@ -1,1 +1,1 @@
-# Hey there, I'm Manoj Maheshwar Jagadeesan!
+# Hey there, I'm Manoj!
